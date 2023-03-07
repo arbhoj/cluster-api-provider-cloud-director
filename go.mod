@@ -1,4 +1,4 @@
-module github.com/vmware/cluster-api-provider-cloud-director
+module github.com/arbhoj/cluster-api-provider-cloud-director
 
 go 1.17
 
